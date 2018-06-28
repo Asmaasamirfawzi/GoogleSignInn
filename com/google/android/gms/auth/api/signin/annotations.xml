@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.android.gms.auth.api.signin.GoogleSignInApi android.content.Intent getSignInIntent(com.google.android.gms.common.api.GoogleApiClient)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
